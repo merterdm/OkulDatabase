@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "OkulDb", "Database1\OkulDb.sqlproj", "{BB7A3AD9-8ED0-412A-B737-F1F965537A5B}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "NorthwindSql", "NorthwindSql\NorthwindSql.sqlproj", "{21AB8F00-280A-4FBA-BE15-CCF24E5EB0C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB7A3AD9-8ED0-412A-B737-F1F965537A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB7A3AD9-8ED0-412A-B737-F1F965537A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB7A3AD9-8ED0-412A-B737-F1F965537A5B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BB7A3AD9-8ED0-412A-B737-F1F965537A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB7A3AD9-8ED0-412A-B737-F1F965537A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB7A3AD9-8ED0-412A-B737-F1F965537A5B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{21AB8F00-280A-4FBA-BE15-CCF24E5EB0C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21AB8F00-280A-4FBA-BE15-CCF24E5EB0C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21AB8F00-280A-4FBA-BE15-CCF24E5EB0C2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{21AB8F00-280A-4FBA-BE15-CCF24E5EB0C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21AB8F00-280A-4FBA-BE15-CCF24E5EB0C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21AB8F00-280A-4FBA-BE15-CCF24E5EB0C2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A99800B-38A2-4E0F-93F8-BE676FF38CB1}
+	EndGlobalSection
+EndGlobal
